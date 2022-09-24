@@ -1,0 +1,15 @@
+= Entête principale
+
+Texte qui suit l'entête principale
+
+== Entête niveau 2
+
+Texte
+
+=== Entête niveau 3
+
+Texte
+Texte
+----
+Résultat : 'Hello, World!'
+----
